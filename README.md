@@ -1,7 +1,7 @@
 # Fake News Detection using Machine Learning
 
 ## Overview
-This project implements a machine learning pipeline to classify news articles as Fake or Real using Natural Language Processing (NLP) techniques.
+This project demonstrates an end-to-end NLP pipeline including preprocessing, feature engineering, model training, and evaluation.
 
 ## Features
 - Comprehensive preprocessing: tokenization, stopword removal, lemmatization
