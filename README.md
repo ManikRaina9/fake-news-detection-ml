@@ -20,6 +20,12 @@ This project demonstrates an end-to-end NLP pipeline including preprocessing, fe
 - Fake.csv: Contains fake news articles  
 - True.csv: Contains real news articles  
 
+Due to file size limitations, the dataset is not included in this repository.
+
+You can download the dataset from:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+After downloading, place the CSV files in the project root directory before running the notebook.
 ## Workflow
 1. Data integration and labeling  
 2. Text cleaning and preprocessing  
